@@ -1,0 +1,14 @@
+._*
+.nextflow
+important_outs
+inputfiles/*
+singularity_imgs
+conf_matrices
+conf/tartu_hpc_test.config
+ipynb
+testdata
+*.sh
+!run.sh
+results*
+work
+*.out

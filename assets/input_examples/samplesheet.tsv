@@ -1,0 +1,3 @@
+sample	countmtx_norm	cell_meta
+pool1	/path/to/countmtx.pool1.norm.h5ad	/path/to/assets/input_examples/cell_meta/cell_meta.pool1.tsv
+pool2	/path/to/countmtx.pool2.norm.h5ad	/path/to/assets/input_examples/cell_meta/cell_meta.pool2.tsv
